@@ -1,1 +1,21 @@
-# pen543is.github.io
+<link rel="stylesheet" href="resource://content-accessible/plaintext.css">
+
+<pre>
+
+.body #previewContainer {
+  background-image: url("https://i.postimg.cc/kGXmvMHn/Background.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  z-index: 1;
+}
+  
+.row.profile .col.w-40.left {
+  background-image: url("https://64.media.tumblr.com/6beb87be611be2c9ae13adea98cc37b4/7cf915f60095705b-cd/s75x75_c1/0c1f522b13c9d503f8339773784b417b70d8989b.gifv");
+  border: 5px solid red;
+  
+  .image { 
+      background: url('https://i.postimg.cc/wTMztvJ2/Floor.png') no-repeat; 
+      position: fixed; 
+      z-index: 2; 
+  }
+</pre>
